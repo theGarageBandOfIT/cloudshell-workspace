@@ -1,7 +1,7 @@
 # cloudshell-workspace
     A repo to build Docker image to use as CloudShell custom environment  
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/theGarageBandOfIT/cloudshell-workspace.git&cloudshell_image=gcr.io/lpiot-sandbox-001/tgboit-custom-cloudshell:latest)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/theGarageBandOfIT/cloudshell-workspace.git&cloudshell_image=gcr.io/lpiot-sandbox-001/tgboit-custom-cloudshell:latest?hl=en_US&show=ide&cloudshell_workspace=%2Fworkspace)
 
 Source: [Customize Cloud Shell container images](https://cloud.google.com/shell/docs/customizing-container-image)  
 
